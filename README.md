@@ -7,11 +7,6 @@ gcc -o server_temporaneo server_insert_to_mongo.c -pthread -I/usr/include -lmong
 gcc -o client_temporaneo clinicclient.c -pthread -I/usr/include -lmongoc-1.0 -lbson-1.0
 ```
 
-e per eseguire i programmi compilati:
-```gcc
-./server_temporaneo
-./client_temporaneo
-```
 ## Vedere i seguenti file per i dettagli implementativi:
 
 [report del progetto MedicalDimension](Report_MedicalDimension.pdf)
