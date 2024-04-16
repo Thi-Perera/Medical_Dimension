@@ -14,5 +14,5 @@ e per eseguire i programmi compilati:
 ```
 ## Vedere i seguenti file per i dettagli implementativi:
 
-[report_MedicalDimension.pdf](report_MedicalDimension.pdf)
+[report del progetto MedicalDimension](Report_MedicalDimension.pdf)
 
