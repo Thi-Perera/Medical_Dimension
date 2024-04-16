@@ -13,6 +13,6 @@ e per eseguire i programmi compilati:
 ./client_temporaneo
 ```
 ## Vedere i seguenti file per i dettagli implementativi:
-```
+
 [report_MedicalDimension.pdf](report_MedicalDimension.pdf)
-```
+
